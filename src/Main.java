@@ -70,7 +70,6 @@ public class Main {
                     continue;
                 case "exit":
                     System.exit(0);
-                    break;
                 default:
                     System.out.println("Wrong input!");
             }
